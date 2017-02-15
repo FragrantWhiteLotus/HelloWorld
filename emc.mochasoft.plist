@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.17.140/apps_file/iOS.ipa</string>
+					<string>http://192.168.17.140:8084/apps_file/iOS.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,13 +19,13 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://192.168.17.140/apple-touch-icon-144.png</string>
+					<string>http://192.168.17.140:8084/apple-touch-icon-144.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.chinamobile.hi.moatest</string>
+				<string>emc.mochasoft</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>subtitle</key>
